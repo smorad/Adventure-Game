@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20100913-r5387">
+  <project autorefresh="false" main="Main" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Main.java" package="" timestamp="10-May-2012 15:03:04">
+        <select from="2714" to="2714"/>
+        <scroll column="982" row="0"/>
+      </file>
+      <file name="WorldObject.java" package="" timestamp="10-May-2012 14:20:16">
+        <select from="2714" to="2714"/>
+        <scroll column="982" row="0"/>
+      </file>
+      <file name="Room.java" package="" timestamp="07-May-2012 19:42:39">
+        <select from="2714" to="2714"/>
+        <scroll column="982" row="0"/>
+      </file>
+      <file name="Player.java" package="" timestamp="10-May-2012 15:03:04">
+        <select from="2714" to="2714"/>
+        <scroll column="982" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches>
+      <watch name="inventory[0]"/>
+      <watch name="inventory[1]"/>
+      <watch name="location.object"/>
+      <watch name="x"/>
+      <watch name="location"/>
+    </watches>
+    <bookmarks/>
+  </project>
+</drjava>
